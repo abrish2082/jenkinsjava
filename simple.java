@@ -6,4 +6,4 @@ class Simple{
 
   }    
     }  
-} 
+}   
