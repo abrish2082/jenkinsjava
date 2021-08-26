@@ -5,5 +5,5 @@ class Simple{
  System.out.println("Hello jenkins and ... git.....  I am simple java code " +i) ; 
   }    
     }      
-
+          
 }   
