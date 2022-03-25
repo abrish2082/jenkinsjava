@@ -16,6 +16,11 @@ class Simple{
     }  
                                   
 }   
+<<<<<<< HEAD
 >>>>>>> 7ddf8f4cf36f72f971ca90da7e7694917307af40
   
        
+=======
+      
+         
+>>>>>>> fad8d1dfd342afd40ee122e7e3629da482a3d359
